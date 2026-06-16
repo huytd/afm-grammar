@@ -17,7 +17,9 @@ You will need to have Xcode installed to compile the Swift LLM bridge. The outpu
 Run the command and pass the input string:
 
 ```
-$ /grammar-fix "He ate two apples."
+$ /grammar-fix "he eat two apple"
+
+# output: He ate two apples.
 ```
 
 ## What is this and how does it work?
