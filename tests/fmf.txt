@@ -1,0 +1,1 @@
+This package add extra utilities for working with LLMs via the Foundation Models framework, such as custom skills, context management helper, and a chat completions client that connects to a hosted model of your choi.
